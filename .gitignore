@@ -1,0 +1,17 @@
+﻿# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+.trash/
+
+# Smart Connections cache
+.smart-env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (if plugins use it)
+node_modules/
