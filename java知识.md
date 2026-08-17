@@ -1,3 +1,11 @@
+---
+tags:
+  - Java
+  - 索引
+  - MOC
+created: 2026-08-17
+---
+
 # Java 知识库 (Vault) 🗺️
 
 > 欢迎来到你的 Java 知识库。这是你学 Java、写 Java、面试 Java 的所有笔记的家。

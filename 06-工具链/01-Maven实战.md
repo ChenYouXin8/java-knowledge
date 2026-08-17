@@ -1,3 +1,11 @@
+---
+tags:
+  - Maven
+  - 工具
+  - 构建
+created: 2026-08-17
+---
+
 # Maven 实战
 
 > Maven 是 Java 项目的**构建工具**，核心职责：管理依赖（自动下载 jar）、统一项目结构、自动化构建（编译→测试→打包）。
@@ -375,3 +383,12 @@ mvn spring-boot:run                     # 运行 Spring Boot
 
 **Q: IDEA 里如何排查 Maven 依赖冲突？**
 > Maven Helper 插件（Dependencies 面板，红色的是冲突）；或 `mvn dependency:tree -Dverbose`（显示被排除的版本）；右键冲突依赖 → Exclude 排除。
+
+
+---
+
+## 🔗 相关笔记
+
+- [[02-Git实战|Git 实战]]
+- [[03-IDEA实战|IDEA 实战]]
+- [[../04-Spring生态/SpringBoot框架|Spring Boot 框架]]

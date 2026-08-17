@@ -1,4 +1,13 @@
-﻿# IO 流
+---
+tags:
+  - Java
+  - 基础
+  - IO
+  - NIO
+created: 2026-08-17
+---
+
+# IO 流
 
 > 文件读写、网络传输、字节流 vs 字符流。**BIO / NIO / AIO** 三种模式。
 
@@ -344,3 +353,11 @@ Files.deleteIfExists(Paths.get("tmp.txt"));
 - 读写对象要保证序列化版本号一致
 - `BufferedReader.readLine()` 不包含换行符，需手动加
 - `InputStreamReader` 是字节到字符的转换桥，底层还是要套 `FileInputStream`
+
+
+---
+
+## 🔗 相关笔记
+
+- [[异常处理|异常处理]]
+- [[集合框架|集合框架]]

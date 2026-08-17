@@ -1,3 +1,11 @@
+---
+tags:
+  - 刷题
+  - 面试
+  - 路线
+created: 2026-08-17
+---
+
 # 2027 秋招 Java 刷题知识路线
 
 > 路线来源：[面试鸭 · 2027 秋招最新 Java 刷题知识路线](https://www.mianshiya.com/post/1844942033942933505)
@@ -24,12 +32,12 @@
 - [x] 掌握自定义异常的创建与抛出 ✅ 2026-08-16
 
 ### Java 内存管理
-- [ ] 理解栈与堆的内存分配机制
-- [ ] 熟悉基本的垃圾回收概念
+- [x] 理解栈与堆的内存分配机制 ✅ 2026-08-17
+- [x] 熟悉基本的垃圾回收概念 ✅ 2026-08-17
 
 ### 常用 Java 库
-- [ ] 掌握常用类库（如 java.lang、java.util）的使用
-- [ ] 熟悉字符串处理（String、StringBuilder、StringBuffer）
+- [x] 掌握常用类库（如 java.lang、java.util）的使用 ✅ 2026-08-17
+- [x] 熟悉字符串处理（String、StringBuilder、StringBuffer） ✅ 2026-08-17
 
 ### 输入输出（I/O）
 - [x] 理解 Java 的 I/O 流机制（字节流与字符流） ✅ 2026-08-16
@@ -536,3 +544,12 @@
 ---
 
 > **使用说明**：所有知识点均使用 `- [ ]` 复选框语法，粘贴到 Notion、Obsidian、Typora、飞书文档等支持 Markdown 的笔记软件后即可直接打勾。
+
+
+---
+
+## 🔗 相关笔记
+
+- [[../01-Java基础/README|Java 基础]]
+- [[../02-Java进阶/README|Java 进阶]]
+- [[../99-MOC/README|MOC 索引]]

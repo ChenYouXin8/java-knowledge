@@ -1,3 +1,11 @@
+---
+tags:
+  - Git
+  - 工具
+  - 版本控制
+created: 2026-08-17
+---
+
 # Git 实战
 
 > Git 是**版本控制工具**，核心职责：记录代码历史、团队协作、随时回退。和你 GitHub 仓库配合使用。
@@ -282,3 +290,11 @@ git log --oneline -10                  # 最近10条提交
 
 **Q: .gitignore 不生效怎么办？**
 > 文件已经被 git track 后再写入 .gitignore 无效。需 `git rm --cached filename` 清除跟踪，然后重新 add。
+
+
+---
+
+## 🔗 相关笔记
+
+- [[01-Maven实战|Maven 实战]]
+- [[03-IDEA实战|IDEA 实战]]

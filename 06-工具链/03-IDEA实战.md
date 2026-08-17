@@ -1,3 +1,11 @@
+---
+tags:
+  - IDEA
+  - 工具
+  - IDE
+created: 2026-08-17
+---
+
 # IDEA 实战
 
 > IDEA（IntelliJ IDEA）是 Java 开发最专业的代码编辑器，核心功能：智能提示、代码补全、重构、调试、运行。
@@ -223,3 +231,11 @@ Ctrl + N           搜索类
 
 **Q: IDEA Lombok 插件没装会有什么现象？**
 > 代码会报红（找不到 getter/setter/constructor），但编译能通过。解决：安装 Lombok 插件并启用 Annotation Processing（Settings → Build → Compiler → Annotation Processors → Enable）。
+
+
+---
+
+## 🔗 相关笔记
+
+- [[01-Maven实战|Maven 实战]]
+- [[02-Git实战|Git 实战]]
