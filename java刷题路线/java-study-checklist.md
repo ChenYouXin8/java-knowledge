@@ -44,8 +44,8 @@ created: 2026-08-17
 - [x] 熟悉文件的读写操作 ✅ 2026-08-16
 
 ### 基础多线程
-- [ ] 理解线程的创建与启动方式
-- [ ] 掌握基本的线程生命周期管理
+- [x] 理解线程的创建与启动方式 ✅ 2026-08-17
+- [x] 掌握基本的线程生命周期管理 ✅ 2026-08-17
 
 ### 基础设计模式
 - [ ] 了解常用设计模式（如单例模式、工厂模式）
@@ -85,25 +85,25 @@ created: 2026-08-17
 ## 03 Java 并发 `核心`
 
 ### Java 内存模型（JMM）
-- [ ] 理解 JMM 的基本概念及其对并发编程的影响
-- [ ] 掌握 happens-before 规则
+- [x] 理解 JMM 的基本概念及其对并发编程的影响 ✅ 2026-08-17
+- [x] 掌握 happens-before 规则 ✅ 2026-08-17
 
 ### 线程的创建与管理
-- [ ] 熟悉 Thread 类与 Runnable 接口的使用
-- [ ] 掌握 Callable 与 Future 的异步任务处理
+- [x] 熟悉 Thread 类与 Runnable 接口的使用 ✅ 2026-08-17
+- [x] 掌握 Callable 与 Future 的异步任务处理 ✅ 2026-08-17
 
 ### 同步机制
-- [ ] 理解 synchronized 关键字的使用与底层实现
-- [ ] 掌握 Lock 接口及其实现类（如 ReentrantLock）的使用
+- [x] 理解 synchronized 关键字的使用与底层实现 ✅ 2026-08-17
+- [x] 掌握 Lock 接口及其实现类（如 ReentrantLock）的使用 ✅ 2026-08-17
 
 ### 并发工具类
-- [ ] 熟悉 CountDownLatch、CyclicBarrier、Semaphore 等工具类的应用场景与用法
-- [ ] 掌握 BlockingQueue 的使用及其实现类（如 ArrayBlockingQueue、LinkedBlockingQueue）
+- [x] 熟悉 CountDownLatch、CyclicBarrier、Semaphore 等工具类的应用场景与用法 ✅ 2026-08-17
+- [x] 掌握 BlockingQueue 的使用及其实现类（如 ArrayBlockingQueue、LinkedBlockingQueue） ✅ 2026-08-17
 
 ### 线程池
-- [ ] 理解线程池的工作原理与优势
-- [ ] 熟悉 Executors 工厂类的各种线程池创建方法
-- [ ] 掌握自定义线程池的配置与优化
+- [x] 理解线程池的工作原理与优势 ✅ 2026-08-17
+- [x] 熟悉 Executors 工厂类的各种线程池创建方法 ✅ 2026-08-17
+- [x] 掌握自定义线程池的配置与优化 ✅ 2026-08-17
 
 ### 并发问题与解决方案
 - [ ] 理解并发问题（如死锁、活锁、饥饿）的成因
