@@ -15,7 +15,7 @@ created: 2026-08-17
 |------|--------|------|
 | 01-Java基础 | 8 篇 | [[../01-Java基础/README|☕ Java 基础]] |
 | 02-Java进阶 | 4 篇 | [[../02-Java进阶/README|🚀 Java 进阶]] |
-| 03-Database | 2 篇 | [[../03-Database/README|🗄️ 数据库]] |
+| 03-Database | 3 篇 | [[../03-Database/README|🗄️ 数据库]] |
 | 04-Spring生态 | 5 篇 | [[../04-Spring生态/README|🌱 Spring 生态]] |
 | 05-AI应用开发 ⭐ | 5 篇 | [[../05-AI应用开发/README|🤖 AI 应用开发]] |
 | 06-工具链 | 5 篇 | [[../06-工具链/README|🔧 工具链]] |
