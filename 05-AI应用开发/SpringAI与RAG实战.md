@@ -26,4 +26,4 @@ created: 2026-08-17
 
 - [[../04-Spring生态/SpringBoot框架|Spring Boot 框架]]
 - [[../03-Database/MySQL数据库|MySQL 数据库]]
-- [[Spring AI 与 RAG 实战|速查与面试题]]
+- [[SpringAI-速查与面试题|速查与面试题]]

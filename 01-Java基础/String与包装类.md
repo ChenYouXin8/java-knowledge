@@ -384,7 +384,7 @@ String c = new String("hello");  → 堆里新建对象
 - [x] String 不可变原理
 - [x] StringBuilder / StringBuffer
 - [x] 包装类装箱拆箱
-- [x] `==` vs `equals()`
+- [x] `a == b` 与 `a.equals(b)` 的区别
 - [x] 代码模板 / 速查清单 / 场景选择器
 
 ## 🐛 踩坑记录

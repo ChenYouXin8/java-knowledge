@@ -9,7 +9,7 @@ created: 2026-08-17
 
 # Spring AI — 高级特性
 
-> 从 [[Spring AI 与 RAG 实战]] 拆分而来。
+> 从 [[SpringAI与RAG实战|Spring AI 与 RAG 实战]] 拆分而来。
 
 ---
 
@@ -294,6 +294,6 @@ spring:
 
 ## 🔗 相关笔记
 
-- [[Spring AI 与 RAG 实战]]
+- [[SpringAI与RAG实战|Spring AI 与 RAG 实战]]
 - [[../04-Spring生态/SpringBoot框架|Spring Boot 框架]]
 - [[../03-Database/MySQL数据库|MySQL 数据库]]

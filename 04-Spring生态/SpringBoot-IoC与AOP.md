@@ -9,7 +9,7 @@ created: 2026-08-17
 
 # Spring Boot — IoC 与 AOP
 
-> 从 [[Spring Boot 框架]] 拆分而来。
+> 从 [[SpringBoot框架|Spring Boot 框架]] 拆分而来。
 
 ---
 
@@ -286,7 +286,7 @@ public class NoRepeatSubmitAspect {
 
 ## 🔗 相关笔记
 
-- [[Spring Boot 框架]]
+- [[SpringBoot框架|Spring Boot 框架]]
 - [[../05-AI应用开发/SpringAI与RAG实战|Spring AI 与 RAG 实战]]
 - [[../01-Java基础/反射|反射]]
 - [[../06-工具链/01-Maven实战|Maven 实战]]

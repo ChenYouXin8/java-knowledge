@@ -286,7 +286,15 @@ git log --oneline -10                  # 最近10条提交
 > `git revert HEAD`（安全撤销，创建新提交反向之前的改动，不改历史）。或者 `git reset --hard HEAD~n` + `git push --force`（危险，改历史）。
 
 **Q: Git 如何解决合并冲突？**
-> 1. `git pull` 报 CONFLICT；2. 打开冲突文件，搜索 `<<<<<<< HEAD` 标记；3. 手动保留想要的代码，删掉 `=======` 等标记；4. `git add` 暂存；5. `git commit` 完成合并。
+> 1. `git pull` 报 CONFLICT；2. 打开冲突文件，会看到下面这种冲突标记；3. 手动保留想要的代码，删掉三行标记；4. `git add` 暂存；5. `git commit` 完成合并。
+
+```text
+<<<<<<< HEAD
+你当前分支的代码
+=======
+要合并进来的代码
+>>>>>>> branch-name
+```
 
 **Q: .gitignore 不生效怎么办？**
 > 文件已经被 git track 后再写入 .gitignore 无效。需 `git rm --cached filename` 清除跟踪，然后重新 add。

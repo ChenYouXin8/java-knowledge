@@ -28,4 +28,4 @@ created: 2026-08-17
 - [[../01-Java基础/反射|反射]]
 - [[../06-工具链/01-Maven实战|Maven 实战]]
 - [[../03-Database/MySQL数据库|MySQL 数据库]]
-- [[Spring Boot -速查与面试题|速查与面试题]]
+- [[SpringBoot-速查与面试题|速查与面试题]]
